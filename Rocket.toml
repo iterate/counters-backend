@@ -1,0 +1,12 @@
+[development]
+port = 5000
+
+[staging]
+port = 5000
+workers = 8
+secret_key = "YSOqWD/0OE8ZVRjM6oVXmtLT8RIVBul1kq9s2j+1Bq4="
+
+[production]
+port = 5000
+workers = 8
+secret_key = "YSOqWD/0OE8ZVRjM6oVXmtLT8RIVBul1kq9s2j+1Bq4="

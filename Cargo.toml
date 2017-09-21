@@ -1,0 +1,12 @@
+[package]
+authors = ["Sindre Ilebekk Johansen <sindre@iterate.no>"]
+name = "counters-backend"
+version = "0.1.0"
+
+[dependencies]
+rocket = "0.3.2"
+rocket_codegen = "0.3.2"
+rocket_contrib = "0.3.2"
+serde = "1.0.15"
+serde_derive = "1.0.15"
+serde_json = "1.0.3"
